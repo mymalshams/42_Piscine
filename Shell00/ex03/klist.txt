@@ -1,0 +1,5 @@
+Credentials cache: API:DDE6CF2C-B14A-462B-9CEF-8D0388D95D69
+        Principal: malshams2@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+Aug 24 22:53:57 2021  Aug 25 08:53:54 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
