@@ -3,7 +3,7 @@
 
 The experience that I've had with the Abu Dhabi August Piscine!
 
-The 42 Piscine is an intensive coding school that tests the student's endurance and learning capabilities within an entire month of coding.
+The 42 Piscine is an intensive coding course that tests the student's endurance and learning capabilities within an entire month of coding.
 
 There are no teachers, and no classes, your fronts of gaining knowledge are either the internet or your peers.
 
